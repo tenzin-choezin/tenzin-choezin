@@ -21,5 +21,5 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 
 
 ## How or where to reach me 📬
-- LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
-- Email: tenzin.p.choezin@gmail.com     
+LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
+Email: tenzin.p.choezin@gmail.com     
