@@ -1,5 +1,5 @@
 # Hey 👋, thanks for coming by! 
-#### My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offerred through our university's school of engineering.
+My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm a soon-to-be alumni of UC Berkeley, where I've studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offerred through our university's school of engineering.
 
 
 ## Who I am 😁
