@@ -1,6 +1,7 @@
-# Hi 👋, thanks for coming by!
+# Hi 👋, thanks for coming by! 
 
-My name is Tenzin Choezin (pronounced Ten-zin Choe-zin) བསྟན་ཆོས་
+My name is Tenzin Choezin (pronounced Ten-zin Choe-zin) 
+# བསྟན་ཆོས་ fdafd
 - 
 - 
 - I’m Tenzin Choezin.
