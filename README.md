@@ -15,7 +15,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
 
 
-# Hobbies of mine
+# Hobbies of mine 🫶
 🏀 Playing basketball (aka hoopin' ⛹️‍♂️)  
 🎽 Doing basically any sort of outdoor/sporty/competitive activity ➡️ 🏂 🏊‍♂️ 🏓 🚴 🏋️ 🚣‍ ⛳ 🎱        
 🍳 Cooking all types of food (aka cheffin' it up 👨‍🍳)    
