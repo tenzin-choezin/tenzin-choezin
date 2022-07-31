@@ -19,8 +19,8 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 🏀 Playing basketball (aka hoopin' ⛹️‍♂️)  
 🎽 Doing basically any sort of outdoor/sporty/competitive activity ➡️ 🏂 🏊‍♂️ 🏓 🚴 🏋️ 🚣‍ ⛳ 🎱        
 🍳 Cooking all types of food (aka cheffin' it up 👨‍🍳)    
-🎧 Listening to music, podcasts, and curating playlists 🔀      
-🔖 Reading books (mainly genres like science & technology, business and finance, religion, and history) 📚      
+🎧 Listening to music, podcasts, and curating 🔀 playlists      
+📚 Reading books 🔖 (mainly genres like science & technology, business and finance, religion, and history)          
 🗺️ Traveling, exploring and learning about new cities, countries, and cultures     
 
 
