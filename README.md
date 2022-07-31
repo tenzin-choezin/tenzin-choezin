@@ -4,7 +4,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 ![hey there](https://github.com/tz-cz/Images/blob/main/heythere.gif)
 
 
-## Who I am 😁
+# Who I am 😁
 🌁 Born and raised in Berkeley, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
@@ -15,13 +15,13 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 ❓ But what's next? I'm currently exploring opportunities that apply agile problem-solving, creativity, and technical skills to resolve difficult and nebulous issues, primarily in the fields of data science, data engineering, and data/product analytics     
 
 
-## Hobbies of mine
+# Hobbies of mine
 🏀 Playing basketball (aka hoopin')   
 🍳 Cooking all types of food (aka cheffin' it up)    
 🎧 Listening to music, podcasts, and curating playlists 🔀    
 🗺️ Traveling, exploring and learning about new cities, countries, and cultures    
 
 
-## How or where to reach me 📬
+# How or where to reach me 📬
 LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
 Email: tenzin.p.choezin@gmail.com     
