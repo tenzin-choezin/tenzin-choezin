@@ -4,7 +4,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 
 
 
-# My background 😁
+## Who am I 😁
 
 completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offerred by our university's school of engineering.
 
