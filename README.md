@@ -1,6 +1,6 @@
 # Hi 👋, thanks for coming by! 
 
-My name is Tenzin Choezin བསྟན་ཆོས་ཆོས་འཛིན་།
+My name is Tenzin Choezin (བསྟན་ཆོས་ཆོས་འཛིན་།)
 - 
 - 
 - I’m Tenzin Choezin.
