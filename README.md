@@ -21,7 +21,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 🍳 Cooking all types of food (aka cheffin' it up 👨‍🍳)    
 🎧 Listening to music, podcasts, and curating 🔀 playlists      
 📚 Reading books 🔖 (mainly genres like science & technology, business and finance, religion, and history)          
-🗺️ Traveling, exploring and learning about new cities, countries, and cultures     
+🗺️ Traveling, exploring, and learning about new cities, countries, and cultures     
 
 
 # How or where to reach me 📬
