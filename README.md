@@ -1,8 +1,6 @@
-# Hi 👋, thanks for coming by! 
+# Hey 👋, thanks for coming by! 
 
-My name is Tenzin Choezin (spelled བསྟན་ཆོས་ཆོས་འཛིན་།). I'm currently a soon-to-be alumni of UC Berkeley, where I studied Data Science and Economics.
-
-I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science while maintaining my passion for software engineering. Previously, I worked as a Fullstack web developer with a preference for back-end.
+My name is Tenzin Choezin (spelled བསྟན་ཆོས་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm currently a soon-to-be alumni of UC Berkeley, where I studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offerred by our university's school of engineering.
 
 
 
