@@ -2,7 +2,8 @@
 
 My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm currently a soon-to-be alumni of UC Berkeley, where I studied Data Science and Economics.
 
-
+#
+#
 # My background
 
 completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offerred by our university's school of engineering.
