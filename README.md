@@ -1,4 +1,4 @@
-# 👋 Thanks for coming by!
+# Hi 👋, thanks for coming by!
 - 👋 I’m Tenzin Choezin.
 - 👀 I’m interested in data science, data engineering, and product analytics. 
 - 🌱 I’m currently studying data science and economics @ UC-Berkeley.
