@@ -1,7 +1,13 @@
 # Hi 👋, thanks for coming by! 
 
-My name is Tenzin Choezin (བསྟན་ཆོས་ཆོས་འཛིན་།)
+My name is Tenzin Choezin (spelled བསྟན་ཆོས་ཆོས་འཛིན་།). I'm currently a soon-to-be alumni of UC Berkeley, where I studied Data Science and Economics.
 
+I'm currently a Master of Engineering student at U.C. Berkeley, where I'm studying Industrial Engineering and Operations Research (IEOR) with a focus on Machine Learning and Data Science while maintaining my passion for software engineering. Previously, I worked as a Fullstack web developer with a preference for back-end.
+
+
+
+
+was a teaching assistant for [Data 88](https://data-88e.github.io/fa20/) and [Stat 88](http://stat88.org/)
 
 
 fdafd
