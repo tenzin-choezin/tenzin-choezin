@@ -24,6 +24,6 @@ My name is **Tenzin Choezin** (spelled བསྟན་ཆོས་ཆོས་�
 🗺️ Traveling, exploring, and learning about new cities, countries, and cultures     
 
 
-# Where to reach me 📬
+# How to reach me 📬
 LinkedIn: https://www.linkedin.com/in/tenzinchoezin/       
 Email: tenzin.p.choezin@gmail.com     
