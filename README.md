@@ -4,7 +4,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 ![hey there](https://github.com/tz-cz/Images/blob/main/heythere.gif)
 
 
-# Who I am 😁
+# My background 😁
 🌁 Born and raised in Berkeley, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
