@@ -1,5 +1,5 @@
 # Hey 👋, thanks for stopping by! 
-My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm an alumni of UC Berkeley, where I studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
+My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས་འཛིན་། and pronounced Ten-zin Choe-zin). I'm an alumnus of UC Berkeley, where I studied Data Science and Economics, and completed the [Certificate in Entrepreneurship & Technology](https://scet.berkeley.edu/students/certificate-in-entrepreneurship-and-technology/) offered through our university's school of engineering.   
 
 ![](heythere.gif)
 
@@ -8,7 +8,7 @@ My name is **Tenzin Choezin** (spelled བསྟན་འཛིན་ཆོས�
 🌁 Born and raised in Berkeley, CA (East Bay Area)  
 🧳 Moved one city over to the El Cerrito / Richmond area right before 7th grade and attended high school there    
 🐻 Began my college journey at Cal as an undergrad pursuing data science   
-💻 Shortly after, I took my first data science / programming course and became really drawn to it     
+💻 Shortly after, I took my first data science/programming course and became really drawn to it     
 🧑‍🏫 Worked as a teaching assistant (TA) for [Data 88](https://data-88e.github.io/fa20/), a data science and economics connector course, as well as [Stat 88](http://stat88.org/), a course on probability and mathematical statistics in data science      
 🔋 Interned at [Pacific Gas and Electric Company](https://www.pge.com/) (PG&E) as a data engineer 📊 for the [PSPS](https://www.pge.com/en_US/residential/outages/public-safety-power-shuttoff/learn-about-psps.page) wildfire prevention team     
 🌐 Just finished interning at IBM as a data scientist 📈 for the [Watson AIOps](https://www.ibm.com/cloud/cloud-pak-for-watson-aiops) 🤖 team as part of the [Extreme Blue Technical Leadership Program](https://www.ibm.com/employment/extremeblue/)  
